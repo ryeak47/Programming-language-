@@ -1,3 +1,3 @@
-1. What is the different between var and val?
+1/ What is the different between var and val?
 Answere: The object assigned to a val cannot be replaced, and the object assigned to a var can. However, said object can have its internal state modified.
 See:https://stackoverflow.com/questions/1791408/what-is-the-difference-between-a-var-and-val-definition-in-scala
